@@ -1,6 +1,6 @@
 ## Hi there! Welcome to Project start 👋
 
-## 🙋‍♀️ Intro
+## 👋 Intro
 ## 👩‍💻 Contribution
 ## 📁 Useful resources
 
